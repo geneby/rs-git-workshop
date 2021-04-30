@@ -1,0 +1,3 @@
+some text for file a.txt
+
+

@@ -1,4 +1,6 @@
 some text for file a.txt
 
 
-Modified from master
+Modified from master;
+changes from second;
+

@@ -2,5 +2,5 @@ some text for file a.txt
 
 
 Modified from master;
-changes from second;
+changes from master;
 
